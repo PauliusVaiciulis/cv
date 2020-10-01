@@ -1,0 +1,41 @@
+html {
+  min-height: 100%;
+}
+body {
+  background-image: linear-gradient(#FBA28E, #F36931);
+  margin: 30px 100px 30px 100px;
+  font-family: sans-serif;
+}
+main {
+  background-color: #FFAC9A;
+  padding-top: 20px;
+  border-radius: 20px;
+  padding-bottom: 10px;
+
+  padding: 20px 20px 10px 20px;
+}
+header {
+  background-color: #F17A61;
+  margin: 0px -30px 20px -30px;
+  padding: 20px 0px 20px 0px;
+  border-radius: 10px;
+
+  border-top: 10px solid #EE3F19;
+
+  text-align: center;
+}
+h1, h2, h3 {
+  margin: 0;
+  margin-bottom: 20px;
+}
+article {
+  background-color: white;
+  border-radius: 10px;
+
+  padding: 10px 30px 20px 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  border-top: 10px solid #FF6E4F;
+  border-bottom: 10px;
+}
